@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.springproject.spring.entities.User;
-import com.springproject.spring.repositories.copy.UserRepository;
+import com.springproject.spring.repositories.UserRepository;
 
 @Service
 public class UserService {

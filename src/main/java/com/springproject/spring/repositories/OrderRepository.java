@@ -1,4 +1,4 @@
-package com.springproject.spring.repositories.copy;
+package com.springproject.spring.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
